@@ -1,1 +1,1 @@
-Folder to get Color Histograms of the images
+Folder to save Color Histograms of the images
