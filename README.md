@@ -1,8 +1,11 @@
 # OK Image
+
 A free image preprocessing tool to apply Data Augmentation techniques in Computer Vision
 
 <h2>Setup</h2>
 Only execute on terminal: <b>python oki.py</b>
+
+<br/>
 
 Included Preprocessing OpenCV Operations
 
