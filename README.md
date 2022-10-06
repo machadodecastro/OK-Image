@@ -1,4 +1,5 @@
-# OK Image
+# ![logo](https://user-images.githubusercontent.com/5161201/194437918-22cab0f2-5a03-4650-90c4-69209e43220e.png)
+OK Image
 
 A free image preprocessing tool to apply Data Augmentation techniques in Computer Vision
 
