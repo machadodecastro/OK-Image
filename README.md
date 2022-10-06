@@ -5,10 +5,7 @@ A free image preprocessing tool to apply Data Augmentation techniques in Compute
 <h2>Setup</h2>
 Only execute on terminal: <b>python oki.py</b>
 
-<br/>
-
-Included Preprocessing OpenCV Operations
-
+<h2>Included Preprocessing OpenCV Operations</h2>
 Below are listed the preprocessing operations included until the moment:
 
 1. Grayscale
