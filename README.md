@@ -3,7 +3,7 @@
 A free image preprocessing tool to apply Data Augmentation techniques in Computer Vision
 
 <h2>Setup</h2>
-Only execute on terminal: <b>python oki.py</b>
+Only execute on terminal: <b><code>python oki.py</code></b>
 
 <h2>Included Preprocessing OpenCV Operations</h2>
 Below are listed the preprocessing operations included until the moment:
