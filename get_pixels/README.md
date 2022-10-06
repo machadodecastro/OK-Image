@@ -1,1 +1,1 @@
-Folder to save images's Pixels
+Folder to get images's Pixels
