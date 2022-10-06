@@ -39,7 +39,7 @@ Below are listed the preprocessing operations included until the moment:
 29. Histogram (Grayscale, Color, Equalization)
 30. Number of Image Contours
 
-<iframe width="727" height="409" src="https://www.youtube.com/embed/sWJKue9oKZ4" title="Ok Image - Free image preprocessing tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<b>Video:</b> https://youtu.be/sWJKue9oKZ4
 
 <b>You can download at:</b> https://machinableai.com/projects/ok-image.html
 
