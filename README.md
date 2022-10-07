@@ -6,6 +6,7 @@ A free image preprocessing tool to apply Data Augmentation techniques in Compute
 <h2>Setup</h2>
 Only execute on terminal: <b><code>python oki.py</code></b>
 
+<hr/>
 Why many folders? Because I projected initially to save each transformed images into a separated folder. You can modify that and put into a single folder, editing the oki.py file.
 
 <h2>Included Preprocessing OpenCV Operations</h2>
