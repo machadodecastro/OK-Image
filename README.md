@@ -4,7 +4,9 @@
 A free image preprocessing tool to apply Data Augmentation techniques in Computer Vision
 
 <h2>Setup</h2>
-Only execute on terminal: <b><code>python oki.py</code></b>
+1. Run <code>pip install -r requirements.txt</code> (Python 2), or <code>pip3 install -r requirements.txt</code> (Python 3)
+2. Run <code>pip freeze > requirements.txt</code>
+3. Execute on terminal: <code>python oki.py</code>
 
 <hr/>
 Why many folders? Because I projected initially to save each transformed images into a separated folder. You can modify that and put into a single folder, editing the oki.py file.
