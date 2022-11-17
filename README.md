@@ -47,8 +47,5 @@ Below are listed the preprocessing operations included until the moment:
 29. Histogram (Grayscale, Color, Equalization)
 30. Number of Image Contours
 
-<b>Video </b> <a href="https://youtu.be/sWJKue9oKZ4" target="_blank">here</a>
-
-<b>You can download the .exe at </b> <a href="https://machinableai.com/projects/ok-image.html" target="_blank">MachinableAI</a>
 
 <a href="https://www.buymeacoffee.com/igormcastro"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=igormcastro&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
