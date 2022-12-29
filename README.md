@@ -5,12 +5,12 @@ A free image preprocessing tool to apply Data Augmentation techniques in Compute
 
 <h2>Setup</h2>
 <ul>
-  1 - Clone project: git clone https://github.com/machadodecastro/OK-Image/
-  2 - cd OK-Image
-  3 - Create virtual environment: virtualenv myenv
-  4 - myenv\scripts\activate
-  5 - pip install -r requirements.txt
-  6 - python oki.py
+  <li>1 - Clone project: git clone https://github.com/machadodecastro/OK-Image/</li>
+  <li>2 - cd OK-Image</li>
+  <li>3 - Create virtual environment: virtualenv myenv</li>
+  <li>4 - myenv\scripts\activate</li>
+  <li>5 - pip install -r requirements.txt</li>
+  <li>6 - python oki.py</li>
 </ul>
 
 <hr/>
