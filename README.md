@@ -5,9 +5,12 @@ A free image preprocessing tool to apply Data Augmentation techniques in Compute
 
 <h2>Setup</h2>
 <ul>
-  <li>Run <code>pip install -r requirements.txt</code> (Python 2), or <code>pip3 install -r requirements.txt</code> (Python 3)</li>
-  <li>Run <code>pip freeze > requirements.txt</code></li>
-  <li>Execute on terminal: <code>python oki.py</code></li>
+  1 - Clone project: git clone https://github.com/machadodecastro/OK-Image/
+  2 - cd OK-Image
+  3 - Create virtual environment: virtualenv myenv
+  4 - myenv\scripts\activate
+  5 - pip install -r requirements.txt
+  6 - python oki.py
 </ul>
 
 <hr/>
