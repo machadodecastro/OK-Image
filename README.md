@@ -1,6 +1,8 @@
 # ![logo](https://user-images.githubusercontent.com/5161201/194437918-22cab0f2-5a03-4650-90c4-69209e43220e.png)
 <h1>OK Image</h1>
 
+<a href="https://www.buymeacoffee.com/igormcastro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 A free image preprocessing tool to apply Data Augmentation techniques in Computer Vision
 
 <h2>Setup</h2>
